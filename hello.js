@@ -1,0 +1,1 @@
+console.log('Hello, world!')check50 cs204/psets/2021/hello --local
